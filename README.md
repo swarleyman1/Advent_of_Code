@@ -1,2 +1,2 @@
 # Advent_of_Code
-My Advent of Code solutions.
+Repository for my [Advent of Code](https://adventofcode.com/) solutions.
