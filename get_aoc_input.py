@@ -74,7 +74,7 @@ if __name__ == "__main__":
             logging.error("Error: Day must be between 1 and 25")
             sys.exit(1)
         forced_day = True
-    except ValueError:
+    except:
         day = datetime.now().day
     
     try:
